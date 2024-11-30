@@ -28,16 +28,16 @@ To run the notebook, make sure you have the following installed:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd ist-692-project-2
+   cd Project_2
    ```
 3. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook Copy_of_IST_692_Project_2.ipynb
+   jupyter notebook Project_2.ipynb
    ```
 
 ## File Overview
 
-- `Project 2.ipynb`: The main project notebook containing the analysis and implementation.
+- `Project_2.ipynb`: The main project notebook containing the analysis and implementation.
 - `README.md`: The notebook converted into Markdown format.
 
 ## License
